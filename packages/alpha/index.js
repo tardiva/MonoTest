@@ -1,1 +1,1 @@
-console.log('alpha');
+console.log('alpha - v1.2');
