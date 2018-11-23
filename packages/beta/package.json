@@ -1,0 +1,8 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "description": "This is module alpha",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
