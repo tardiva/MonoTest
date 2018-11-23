@@ -1,7 +1,7 @@
 {
-  "name": "alpha",
+  "name": "beta",
   "version": "1.0.0",
-  "description": "This is module alpha",
+  "description": "This is module beta",
   "main": "index.js",
   "author": "",
   "license": "ISC"
