@@ -1,1 +1,1 @@
-console.log('beta v2');
+console.log('beta');

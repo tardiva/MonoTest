@@ -4,5 +4,6 @@
   "description": "This is module alpha",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "",
+  "gitHead": "627865f702d7bd7945b09304209dc37c014c3168"
 }
